@@ -3,6 +3,7 @@
 拷贝可用
 
 ```bash
+yarn
 node fang.js
 ```
 
